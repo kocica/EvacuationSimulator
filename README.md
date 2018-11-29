@@ -32,17 +32,17 @@
  - See statistics for results
  - More images in doc/doc.pdf & doc/experiments
 
-Beginning of the simulation:<br>
+<b>Beginning of the simulation</b>:<br>
 ![alt text](img/example1.png "Beginning of the simulation")
-Progress of the simulation:<br>
+<br><br><b>Progress of the simulation</b>:<br>
 ![alt text](img/example2.png "Progress of the simulation")
-Simulation finished:<br>
+<br><br><b>Simulation finished</b>:<br>
 ![alt text](img/example3.png "Simulation finished")
 
 ## Facts
 
- - People will try to get to the closest exits
+ - People will try to get to the closest exit
  - People will run away from the fire
- - According to crowd-influence, people will run same direction as others
+ - According to crowd-influence, people may run same direction as others
  - Random distribution of probability (people won't go straight to the exits)
  - Its just simulation and NOBODY gets hurt (so you may do whatever you want with people in simulation, eg. let'em all burn, or save'em all)
