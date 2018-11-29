@@ -5,8 +5,6 @@
 	<br>
 	We were given a task to create a simulation based on cellular systems.
 	<br>
-	We have chosen simulation of the evacuation of the cinema.
-	<br>
 	Simulation measures number of people in the simulation, number of people which died during the simulation and estimated time.
 </p>
 
@@ -32,7 +30,7 @@
  - See statistics for results
  - More images in doc/doc.pdf & doc/experiments
 
-<b>Beginning of the simulation</b>:<br>
+<br><b>Beginning of the simulation</b>:<br>
 ![alt text](img/example1.png "Beginning of the simulation")
 <br><br><b>Progress of the simulation</b>:<br>
 ![alt text](img/example2.png "Progress of the simulation")
@@ -43,6 +41,10 @@
 
  - People will try to get to the closest exit
  - People will run away from the fire
- - According to crowd-influence, people may run same direction as others
- - Random distribution of probability (people won't go straight to the exits)
- - Its just simulation and NOBODY gets hurt (so you may do whatever you want with people in simulation, eg. let'em all burn, or save'em all)
+ - According to crowd-influence, people may run to the same direction as others
+ - Random distribution of probability of the movement (people won't go straight to the exits)
+ - It's just simulation and NOBODY gets hurt (so you may do whatever you want with people in simulation, eg. let'em all burn, or save'em all)
+
+![alt text](img/example4.png "")
+<br>
+![alt text](img/example5.png "")
