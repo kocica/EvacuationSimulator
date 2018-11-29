@@ -46,3 +46,7 @@
  - It's just simulation and NOBODY gets hurt (so you may do whatever you want with people in simulation, eg. let'em all burn, or save'em all)
 
 ![alt text](img/example4.png "")
+
+## Future work
+
+ - Load grid from the config file, so it would be easy adjustable (atm. its constructed (hardcoded) in Grid.cpp)
