@@ -11,7 +11,7 @@
 
 ## Dependencies
 
- - GUI Framework Qt
+ - GUI Framework Qt (voluntarily, you may use console version)
 
 ## About the tool
 
