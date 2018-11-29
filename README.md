@@ -5,7 +5,7 @@
 	<br>
 	We were given a task to create a simulation based on cellular systems.
 	<br>
-	So we have chosen simulation of evacuation in the cinema.
+	We have chosen simulation of the evacuation of the cinema.
 	<br>
 	Simulation measures number of people in the simulation, number of people which died during the simulation and estimated time.
 </p>
@@ -28,15 +28,15 @@
  - Build target `make gui`
  - Run simulation `./evactuation`
  - In the GUI, you may add/remove exit by left/right clicking on the cell, same for adding/removing fire on the cell
- - Run the simulation using green button, stop simulation using red simulation, make one step of simulation using blue button
+ - Run the simulation using green button, stop simulation using red button, perform one step of the simulation using blue button
  - See statistics for results
  - More images in doc/doc.pdf & doc/experiments
 
- Inline-style: 
+Beginning of the simulation:<br>
 ![alt text](img/example1.png "Beginning of the simulation")
- Inline-style: 
+Progress of the simulation:<br>
 ![alt text](img/example2.png "Progress of the simulation")
- Inline-style: 
+Simulation finished:<br>
 ![alt text](img/example3.png "Simulation finished")
 
 ## Facts
