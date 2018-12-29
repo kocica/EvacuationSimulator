@@ -1,0 +1,37 @@
+Two versions
+============
+Both versions use command line arguments to set simulation parameters.
+
+    1) GUI version
+    --------------
+        Requires Qt.
+        Allows simulation control through buttons.
+        Simulation layout (exits, fires) can be easily modified.
+
+    2) console version
+    ------------------
+        To be used when Qt is not available.
+        Simulation layout can be changed only through source file modification and rebuilding.
+        Fires can only be generated in a random place (using the -X option)
+        2 modes
+            Default - Outputs just the initial state and final statistics.
+            Visual  - Activated using -v option. Prints the whole grid in each simulation step.
+
+Building
+========
+    Building the console version
+        $ make
+    
+    Building the GUI version
+        $ make gui
+
+Running
+=======
+    Running with default parameters 
+        $ make run
+        or 
+        $ make rungui
+
+    Running with custom parameters 
+        $ ./IMS-xkocic01-xvasic25   [-vhX] [-srceaRCfF <double>] [-l <unsigned>]
+        $ ./IMS-xkocic01-xvasic25_gui [-h] [-srceaRCfF <double>] [-l <unsigned>]

@@ -1,0 +1,13 @@
+<RCC>
+    <qresource>
+        <file>img/Border.jpg</file>
+        <file>img/Person.jpg</file>
+        <file>img/Obstacle.jpg</file>
+        <file>img/Empty.jpg</file>
+        <file>img/Exit.jpg</file>
+        <file>img/Start.jpg</file>
+        <file>img/Stop.jpg</file>
+        <file>img/Step.jpg</file>
+        <file>img/Fire.jpg</file>
+    </qresource>
+</RCC>
