@@ -7,7 +7,7 @@
 ###############################################################
 
 ################## Build constants ##############
-BIN_NAME   = IMS-xkocic01-xvasic25
+BIN_NAME   = evacusim
 
 DOC        = doc.pdf
 README     = README
